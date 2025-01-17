@@ -4,8 +4,11 @@
 ![GitHub stars](https://img.shields.io/github/stars/jaydeep-godhani/SoundWaveVisualizer?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/jaydeep-godhani/SoundWaveVisualizer?style=social)
 
-
 **EqualizerView** is a custom iOS UIView component that simulates a dynamic equalizer animation. It allows you to display multiple bars representing an audio equalizer, with visual states for play, pause, and stop, along with customizable bar count and spacing. This view can be used in music or audio-related apps to provide users with a visual representation of sound.
+
+<div align="center">
+  <img src="Assets/ScreenRecording.gif" alt="Demo" width="270"/>
+</div>
 
 ## Features
 
